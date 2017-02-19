@@ -447,4 +447,9 @@
   <Boolean key="Part_EngineSmall_05_SET_isUsed" value="True" />
   <Boolean key="Part_TNT_04_SET_isUsed" value="True" />
   <Boolean key="Part_CokeBottle_04_SET_isUsed" value="True" /> #Конец открытых кастомизаций
+  <Int32 key="Blueprints_Available" value="500" /> #Улучшенные механики
+  <Int32 key="SuperMagnet_Available" value="500" /> #Магниты
+  <Int32 key="NightVisions_Available" value="500" /> #Очки ночного зрения
+  <Int32 key="SuperGlue_Available" value="500" /> #Клей
+  <Int32 key="TurboCharge_Available" value="500" /> #Форсаж
 </data>
