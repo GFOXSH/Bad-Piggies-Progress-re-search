@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Boolean key="PermanentBlueprint" value="True" /> #Механик
+  <Boolean key="AnyLootCrateCollected" value="True" /> #Мастерская
+  <Boolean key="sandbox_unlocked_S-F" value="True" /> #Песочница
+  <Int32 key="SnoutCoins" value="5000" /> #Монеты
+  <Int32 key="Scrap" value="5000" /> #Детали
+</data>
