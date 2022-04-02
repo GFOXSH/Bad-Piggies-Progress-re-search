@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Boolean key="PermanentBlueprint" value="True" />
+  <Boolean key="AnyLootCrateCollected" value="True" />
+  <Boolean key="sandbox_unlocked_S-F" value="True" />
+  <Int32 key="SnoutCoins" value="5000" />
+  <Int32 key="Scrap" value="5000" />
+  <Int32 key="Blueprints_Available" value="500" />
+  <Int32 key="SuperMagnet_Available" value="500" />
+  <Int32 key="NightVisions_Available" value="500" />
+  <Int32 key="SuperGlue_Available" value="500" />
+  <Int32 key="TurboCharge_Available" value="500" />
+</data>
